@@ -1,0 +1,1 @@
+# Clean install of NextJS (13.5.4) + Firebase
